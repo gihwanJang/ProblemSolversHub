@@ -133,4 +133,16 @@
     - SWExportAcademy 2805<br>
     - SWExportAcademy 1210<br>
     - SWExportAcademy 1289<br>
+    - Baekjoon 13458<br> 
+    - Baekjoon 14499<br> 
+    - Baekjoon 14890<br> 
+    - Baekjoon 14891<br> 
+</details>
+<details> <summary>week 8</summary>
+    - Programmers 키패드 누르기<br> 
+    - Programmers 수식 최대화<br> 
+    - Programmers 보석 쇼핑<br> 
+    - Programmers 경주로 건설<br> 
+    - Programmers 거리두기 확인하기<br> 
+    - Programmers 표 편집<br> 
 </details>
